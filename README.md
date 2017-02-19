@@ -1,0 +1,2 @@
+# smarktool
+cmd tool x
